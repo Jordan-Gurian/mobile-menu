@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.bottom-tabs {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.hide {
+    visibility: hidden;
+}
